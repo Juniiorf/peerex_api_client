@@ -1,0 +1,14 @@
+{
+	"global": {
+		"notAuthorized": "Acesso não autorizado.",
+		"general": "Houve um erro."
+	},
+	"modelValidationErrors": {
+		"unique": "Já existe um cadastro com este valor.",
+		"userUnique": "Já existe um usuário com este e-mail.",
+		"cast": "Não foi possível converter o tipo do valor."
+	},
+	"authentication": {
+		"invalidPassword": "Senha inválida."
+	}
+}

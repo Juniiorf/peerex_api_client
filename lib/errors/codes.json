@@ -1,0 +1,18 @@
+{
+  "GLO0001": {
+    "httpStatus": 500,
+    "i18n": "global.general"
+  },
+  "GLO0003": {
+    "httpStatus": 401,
+    "i18n": "global.notAuthorized"
+  },
+  "GLO0004": {
+    "httpStatus": 403,
+    "i18n": "global.forbidden"
+  },
+  "USR0010": {
+    "httpStatus": 400,
+    "i18n": "authentication.invalidPassword"
+  }
+}
