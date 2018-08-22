@@ -63,7 +63,8 @@
     "compiled:local": "NODE_ENV=development forever ./dist/index.js",
     "compiled:development": "NODE_ENV=development forever ./dist/index.js",
     "compiled:production": "NODE_ENV=production forever ./dist/index.js",
-    "docker": "docker build -t boilerplate-api . && docker run -p 5000:5000 -p 5001:5001 -it boilerplate-api"
+    "docker": "docker build -t boilerplate-api . && docker run -p 5000:5000 -p 5001:5001 -it boilerplate-api",
+    "push": "git add . && git commit -m \"Saving Progress\" && git push"
   },
   "repository": {
     "type": "git",

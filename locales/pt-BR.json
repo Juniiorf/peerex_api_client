@@ -1,7 +1,8 @@
 {
 	"global": {
 		"notAuthorized": "Acesso não autorizado.",
-		"general": "Houve um erro."
+		"general": "Houve um erro.",
+		"forbidden": "global.forbidden"
 	},
 	"modelValidationErrors": {
 		"unique": "Já existe um cadastro com este valor.",
